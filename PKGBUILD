@@ -1,7 +1,7 @@
 # Maintainer: Kat Witten <turtlewit@live.com>
 pkgname=sway-launcher-desktop
 pkgver=1.4.0
-pkgrel=1
+pkgrel=2
 pkgdesc="TUI Application launcher with Desktop Entry support."
 arch=('any')
 url="https://github.com/Biont/sway-launcher-desktop"
